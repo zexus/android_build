@@ -98,6 +98,7 @@ PRODUCT_PACKAGES += \
     libmediandk \
     libvulkan \
     libwifi-service \
+    libxposed_art \
     media \
     media_cmd \
     mediadrmserver \
